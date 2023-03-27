@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajit Dahal</h1>
-<h3 align="center">A passionate Software Developer from Nepal</h3>
+<h3 align="center">A passionate Fullstack Developer</h3>
 
 <img align="center" alt="coding"  width = "600" src="https://media1.giphy.com/media/Xgg0PkTao7Yy8HOElW/giphy.gif?cid=ecf05e47ed16zf9om97z3uyom6e73kjaib5gmthiqu9vbfen&rid=giphy.gif&ct=g">
 
