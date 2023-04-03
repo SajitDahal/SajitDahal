@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sajit Dahal</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 
-<img align="center" alt="coding"  width = "600" src="https://media1.giphy.com/media/Xgg0PkTao7Yy8HOElW/giphy.gif?cid=ecf05e47ed16zf9om97z3uyom6e73kjaib5gmthiqu9vbfen&rid=giphy.gif&ct=g">
+<img align="center" alt="coding"  width = "600" src="https://media1.giphy.com/media/Xgg0PkTao7Yy8HOElW/giphy.gif?cid=ecf05e47ed16zf9om97z3uyom6e73kjaib5gmthiqu9vbfen&rid=giphy.gif&ct=g"> <img align="right" alt="coding" width ="400" src="https://media4.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=ecf05e47qesgzasmblj0mrn5g46bpbnfj159ymplosxsgpau&rid=giphy.gif&ct=g">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajitdahal&label=Profile%20views&color=0e75b6&style=flat" alt="sajitdahal" /> </p>
 
